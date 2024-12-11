@@ -7,7 +7,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sayari-analytics/eslint-plugin-sayari.git"
+    "url": "https://github.com/mnmn0/eslint-plugin-sayari.git"
   },
   "scripts": {
     "lint": "eslint ./"
